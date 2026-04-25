@@ -1,1 +1,1 @@
-personal projects are here: https://codeberg.org/butteronarchbtw
+personal projects moved here: https://codeberg.org/butteronarchbtw
